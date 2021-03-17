@@ -1,0 +1,3 @@
+profile_name,ipaddr,hostn
+esxhost1,10.10.107.35,node1
+esxhost2,10.10.107.36,node2
